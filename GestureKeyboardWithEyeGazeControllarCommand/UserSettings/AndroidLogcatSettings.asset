@@ -1,0 +1,463 @@
+{
+    "m_SelectedDeviceId": "230YC01D8W03T6",
+    "m_SelectedPackage": {
+        "deviceId": "230YC01D8W03T6",
+        "name": "com.DefaultCompany.GestureKeyboard",
+        "processId": 5963,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 29309,
+            "exited": true
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 30075,
+            "exited": true
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 30860,
+            "exited": true
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 31602,
+            "exited": true
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.oculus.shellenv",
+            "processId": 2276,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 4889,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 6694,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 7325,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 8242,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 11261,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 12394,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 14290,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 19092,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 19843,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 20821,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 21431,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 23387,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 24192,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 25035,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 31876,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 32683,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 1915,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 4352,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 5800,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 6706,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 29334,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 30805,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 31834,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 659,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 7683,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 9288,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 10387,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 11411,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 12437,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 12861,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 13379,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 14148,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 15833,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 17098,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 18311,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 19572,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 20288,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 10596,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 11186,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 12213,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 13609,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 15645,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 12891,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 18082,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 18791,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 19476,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 21820,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 22642,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 23863,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 7362,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 8286,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 9511,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 6771,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 8059,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 8879,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 21198,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 22087,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 22842,
+            "exited": false
+        },
+        {
+            "deviceId": "230YC01D8W03T6",
+            "name": "com.DefaultCompany.GestureKeyboard",
+            "processId": 5963,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_FilterOptions": {
+        "m_Filter": "",
+        "m_UseRegularExpressions": false,
+        "m_MatchCase": false
+    },
+    "m_SymbolPaths": [],
+    "m_CaptureVideoSettings": {
+        "TimeLimitEnabled": false,
+        "TimeLimit": 180,
+        "VideoSizeEnabled": false,
+        "VideoSizeX": 1280,
+        "VideoSizeY": 720,
+        "BitRateEnabled": false,
+        "BitRateK": 20000,
+        "DisplayIdEnabled": false,
+        "DisplayId": ""
+    }
+}

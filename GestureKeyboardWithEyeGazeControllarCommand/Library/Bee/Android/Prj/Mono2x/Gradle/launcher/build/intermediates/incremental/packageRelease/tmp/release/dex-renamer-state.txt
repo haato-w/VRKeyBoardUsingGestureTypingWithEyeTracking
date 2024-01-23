@@ -1,0 +1,4 @@
+#Mon Jan 22 17:21:13 JST 2024
+base.0=/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

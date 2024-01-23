@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.OVR.csproj": {}
+  },
+  "projects": {
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.csproj",
+        "projectName": "Oculus.Interaction",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.OVR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.OVR.csproj",
+        "projectName": "Oculus.Interaction.OVR",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.OVR.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.Interaction.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj",
+        "projectName": "Oculus.VR",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Oculus.VR.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

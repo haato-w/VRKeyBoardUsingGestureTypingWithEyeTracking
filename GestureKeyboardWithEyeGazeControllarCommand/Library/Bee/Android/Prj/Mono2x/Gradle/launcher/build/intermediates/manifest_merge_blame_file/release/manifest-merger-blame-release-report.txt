@@ -1,0 +1,230 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.DefaultCompany.GestureKeyboard"
+4    android:installLocation="auto"
+5    android:versionCode="1"
+6    android:versionName="0.1" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="23"
+9-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="32" />
+10-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml
+11
+12    <supports-screens
+12-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:3-163
+13        android:anyDensity="true"
+13-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:135-160
+14        android:largeScreens="true"
+14-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:78-105
+15        android:normalScreens="true"
+15-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:49-77
+16        android:smallScreens="true"
+16-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:21-48
+17        android:xlargeScreens="true" />
+17-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:4:106-134
+18
+19    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
+19-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-79
+19-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:26-76
+20
+21    <uses-permission android:name="android.permission.INTERNET" />
+21-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-67
+21-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-64
+22    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+22-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:5-79
+22-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:22-76
+23    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+23-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:5-71
+23-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:15:22-68
+24    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+24-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:5-80
+24-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:22-77
+25
+26    <uses-feature android:glEsVersion="0x00030000" />
+26-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:5-54
+26-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:19-51
+27    <uses-feature
+27-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:5-21:36
+28        android:name="android.hardware.vulkan.version"
+28-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:9-55
+29        android:required="false" />
+29-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:21:9-33
+30    <uses-feature
+30-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:22:5-24:36
+31        android:name="android.hardware.microphone"
+31-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:23:9-51
+32        android:required="false" />
+32-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:24:9-33
+33    <uses-feature
+33-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:25:5-27:36
+34        android:name="android.hardware.touchscreen"
+34-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:26:9-52
+35        android:required="false" />
+35-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-33
+36    <uses-feature
+36-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:28:5-30:36
+37        android:name="android.hardware.touchscreen.multitouch"
+37-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:29:9-63
+38        android:required="false" />
+38-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:30:9-33
+39    <uses-feature
+39-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:31:5-33:36
+40        android:name="android.hardware.touchscreen.multitouch.distinct"
+40-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:32:9-72
+41        android:required="false" />
+41-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:33:9-33
+42    <uses-feature
+42-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:34:5-37:31
+43        android:name="android.hardware.vr.headtracking"
+43-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:35:9-56
+44        android:required="true"
+44-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:36:9-32
+45        android:version="1" />
+45-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:37:9-28
+46    <uses-feature
+46-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:38:5-40:35
+47        android:name="oculus.software.eye_tracking"
+47-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:39:9-52
+48        android:required="true" />
+48-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:40:9-32
+49
+50    <uses-permission android:name="com.oculus.permission.EYE_TRACKING" />
+50-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:5-74
+50-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:42:22-71
+51
+52    <application
+52-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:3-83
+53        android:allowBackup="false"
+53-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:45:9-36
+54        android:extractNativeLibs="true"
+54-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:46:9-41
+55        android:icon="@mipmap/app_icon"
+55-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:49-80
+56        android:label="@string/app_name"
+56-->/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/src/main/AndroidManifest.xml:3:16-48
+57        android:networkSecurityConfig="@xml/network_sec_config" >
+57-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:49:9-64
+58        <meta-data
+58-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:50:9-52:33
+59            android:name="unity.splash-mode"
+59-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:51:13-45
+60            android:value="0" />
+60-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:52:13-30
+61        <meta-data
+61-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:53:9-55:36
+62            android:name="unity.splash-enable"
+62-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:54:13-47
+63            android:value="True" />
+63-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:55:13-33
+64        <meta-data
+64-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:56:9-58:36
+65            android:name="unity.launch-fullscreen"
+65-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:57:13-51
+66            android:value="True" />
+66-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:58:13-33
+67        <meta-data
+67-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:59:9-61:37
+68            android:name="unity.allow-resizable-window"
+68-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:60:13-56
+69            android:value="False" />
+69-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:61:13-34
+70        <meta-data
+70-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:62:9-64:50
+71            android:name="notch.config"
+71-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:63:13-40
+72            android:value="portrait|landscape" />
+72-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:64:13-47
+73        <meta-data
+73-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:65:9-67:36
+74            android:name="unity.auto-report-fully-drawn"
+74-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:66:13-57
+75            android:value="true" />
+75-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:67:13-33
+76
+77        <activity
+77-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:69:9-95:20
+78            android:name="com.unity3d.player.UnityPlayerActivity"
+78-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:70:13-66
+79            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenLayout|screenSize|uiMode"
+79-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:71:13-114
+80            android:exported="true"
+80-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:72:13-36
+81            android:hardwareAccelerated="false"
+81-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:73:13-48
+82            android:launchMode="singleTask"
+82-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:74:13-44
+83            android:resizeableActivity="false"
+83-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:75:13-47
+84            android:screenOrientation="landscape"
+84-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:76:13-50
+85            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" >
+85-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:77:13-77
+86            <intent-filter>
+86-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:78:13-84:29
+87                <category android:name="android.intent.category.LAUNCHER" />
+87-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:79:17-77
+87-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:79:27-74
+88
+89                <action android:name="android.intent.action.MAIN" />
+89-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:81:17-69
+89-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:81:25-66
+90
+91                <category android:name="com.oculus.intent.category.VR" />
+91-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:83:17-74
+91-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:83:27-71
+92            </intent-filter>
+93
+94            <meta-data
+94-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:86:13-88:40
+95                android:name="unityplayer.UnityActivity"
+95-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:87:17-57
+96                android:value="true" />
+96-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:88:17-37
+97            <meta-data
+97-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:89:13-91:40
+98                android:name="notch_support"
+98-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:90:17-45
+99                android:value="true" />
+99-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:91:17-37
+100            <meta-data
+100-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:92:13-94:40
+101                android:name="com.oculus.vr.focusaware"
+101-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:93:17-56
+102                android:value="true" />
+102-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:94:17-37
+103        </activity>
+104
+105        <meta-data
+105-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:97:9-99:39
+106            android:name="com.samsung.android.vr.application.mode"
+106-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:98:13-67
+107            android:value="vr_only" />
+107-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:99:13-36
+108        <meta-data
+108-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:100:9-102:37
+109            android:name="com.unity.xr.oculus.LowOverheadMode"
+109-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:101:13-63
+110            android:value="false" />
+110-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:102:13-34
+111        <meta-data
+111-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:103:9-105:37
+112            android:name="com.unity.xr.oculus.LateLatching"
+112-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:104:13-60
+113            android:value="false" />
+113-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:105:13-34
+114        <meta-data
+114-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:106:9-108:37
+115            android:name="com.unity.xr.oculus.LateLatchingDebug"
+115-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:107:13-65
+116            android:value="false" />
+116-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:108:13-34
+117        <meta-data
+117-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:109:9-111:47
+118            android:name="com.oculus.supportedDevices"
+118-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:110:13-55
+119            android:value="quest2|questpro" />
+119-->[:unityLibrary] /Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/build/intermediates/merged_manifest/release/AndroidManifest.xml:111:13-44
+120    </application>
+121
+122</manifest>

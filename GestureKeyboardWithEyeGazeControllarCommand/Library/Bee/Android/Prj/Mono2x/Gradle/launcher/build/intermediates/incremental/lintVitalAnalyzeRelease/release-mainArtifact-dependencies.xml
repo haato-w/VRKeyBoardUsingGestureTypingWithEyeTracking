@@ -1,0 +1,33 @@
+<dependencies>
+  <compile
+      roots="/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release">
+    <dependency
+        name="/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release,__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_unity.jar:unspecified@jar,__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar,__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_core.jar:unspecified@jar,__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar:unspecified@jar,__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar:unspecified@jar,:InteractionSdk:@aar,:OVRPlugin:@aar,:SDKTelemetry:@aar,/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_unity.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_core.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_platform_logger.jar:unspecified@jar"/>
+    <dependency
+        name="__local_aars__:/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/voicesdk_platform_dictation.jar:unspecified@jar"/>
+    <dependency
+        name=":InteractionSdk:@aar"/>
+    <dependency
+        name=":OVRPlugin:@aar"/>
+    <dependency
+        name=":SDKTelemetry:@aar"/>
+    <dependency
+        name="/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>

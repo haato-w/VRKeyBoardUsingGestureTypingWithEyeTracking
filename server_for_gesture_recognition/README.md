@@ -1,6 +1,5 @@
 # Gesture Recognition
-![Gesture-Recognition](https://rmodi6.github.io/images/gesture-recognition.gif)  
+ 
+This folder has gesture recognition sysytem that was forked from [Eye Tracking Keyboard](https://github.com/fabio914/EyeTrackingKeyboard?tab=readme-ov-file).
 
-Recognizing swipe gestures on a touchscreen keyboard using the 
-[SHARK<sup>2</sup>](http://pokristensson.com/pubs/KristenssonZhaiUIST2004.pdf 'Shark2 Decoder') 
-decoder. You can try the demonstration [here](http://rmodi6.pythonanywhere.com/gesture-recognition).
+And, This implementation is based on [SHARK<sup>2</sup>](http://pokristensson.com/pubs/KristenssonZhaiUIST2004.pdf 'Shark2 Decoder').

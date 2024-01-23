@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.Voice.Samples.BuiltInTimer.csproj": {}
+  },
+  "projects": {
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.Voice.Samples.BuiltInTimer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.Voice.Samples.BuiltInTimer.csproj",
+        "projectName": "Meta.Voice.Samples.BuiltInTimer",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.Voice.Samples.BuiltInTimer.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.Common",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Other.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Other.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.Other",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Other.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.WebGL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.WebGL.csproj",
+        "projectName": "Meta.VoiceSDK.Mic.WebGL",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.WebGL.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Conduit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Conduit.csproj",
+        "projectName": "Meta.WitAi.Conduit",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Conduit.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.csproj",
+        "projectName": "Meta.WitAi",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Common.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Other.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.Other.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.WebGL.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.VoiceSDK.Mic.WebGL.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Conduit.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Conduit.csproj"
+              },
+              "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+                "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj",
+        "projectName": "Meta.WitAi.Lib",
+        "projectPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/Meta.WitAi.Lib.csproj",
+        "packagesPath": "/Users/watanabehaato/.nuget/packages/",
+        "outputPath": "/Users/watanabehaato/work/unity_project/GestureKeyboardWithEyeGazeControllarCommand/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/watanabehaato/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
