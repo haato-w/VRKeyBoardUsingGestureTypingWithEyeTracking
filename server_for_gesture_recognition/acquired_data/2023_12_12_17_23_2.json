@@ -1,0 +1,55 @@
+{
+  "input_method": "EyeGazeGesture",
+  "data": [
+    {
+      "result_text": "please\u23b5start\u23b5tet\u23b5",
+      "input_keys": "plea\u23b5<<<<<l\u23b5paw\u23b5<<<<<<please\u23b5start\u23b5tet\u23b5",
+      "elapsed_time": "96.119"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream\u23b5",
+      "input_keys": "vanilla\u23b5flavored\u23b5ice\u23b5cream\u23b5",
+      "elapsed_time": "38.203"
+    },
+    {
+      "result_text": "jinformation\u23b5super\u23b5highway\u23b5",
+      "input_keys": "j\u23b5<information\u23b5super\u23b5highway\u23b5",
+      "elapsed_time": "54.797"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5suite\u23b5is\u23b5busy\u23b5",
+      "input_keys": "the\u23b5presidential\u23b5suite\u23b5is\u23b5busy\u23b5",
+      "elapsed_time": "46.166"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "elapsed_time": "30.768"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree\u23b5",
+      "input_keys": "every\u23b5apple\u23b5from\u23b5every\u23b5tree\u23b5",
+      "elapsed_time": "30.42"
+    },
+    {
+      "result_text": "lean\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "input_keys": "lean\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "elapsed_time": "44.551"
+    },
+    {
+      "result_text": "we\u23b5",
+      "input_keys": "we\u23b5",
+      "elapsed_time": "2.283"
+    },
+    {
+      "result_text": "do\u23b5",
+      "input_keys": "do\u23b5",
+      "elapsed_time": "2.423"
+    },
+    {
+      "result_text": "face\u23b5",
+      "input_keys": "face\u23b5",
+      "elapsed_time": "3.745"
+    }
+  ]
+}

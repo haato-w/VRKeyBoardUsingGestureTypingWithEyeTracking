@@ -1,0 +1,45 @@
+{
+  "input_method": "EyeGazeGesture",
+  "data": [
+    {
+      "text": "hello\u23b5world\u23b5",
+      "elapsed_time": "5.986"
+    },
+    {
+      "text": "play\u23b5it\u23b5again\u23b5sam\u23b5",
+      "elapsed_time": "8.214"
+    },
+    {
+      "text": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions\u23b5",
+      "elapsed_time": "32.293"
+    },
+    {
+      "text": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5",
+      "elapsed_time": "19.976"
+    },
+    {
+      "text": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight\u23b5",
+      "elapsed_time": "22.814"
+    },
+    {
+      "text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur\u23b5",
+      "elapsed_time": "28.522"
+    },
+    {
+      "text": "fish\u23b5are\u23b5jumping\u23b5",
+      "elapsed_time": "10.689"
+    },
+    {
+      "text": "head\u23b5",
+      "elapsed_time": "3.911"
+    },
+    {
+      "text": "until\u23b5",
+      "elapsed_time": "2.505"
+    },
+    {
+      "text": "brown\u23b5",
+      "elapsed_time": "2.756"
+    }
+  ]
+}

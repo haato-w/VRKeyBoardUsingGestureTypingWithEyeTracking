@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "snabheart\u23b5test\u23b5if\u23b5you\u23b5are\u23b5",
+      "input_keys": "snabheart\u23b5texy<<st\u23b5if\u23b5you\u23b5are\u23b5d<readyf<<<<<<readyre<<<<<<<",
+      "elapsed_time": "62.915"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "input_keys": "lez<zla<<<z<arn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "elapsed_time": "21.478"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "input_keys": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "elapsed_time": "15.551"
+    },
+    {
+      "result_text": "do",
+      "input_keys": "do",
+      "elapsed_time": "0.737"
+    },
+    {
+      "result_text": "face",
+      "input_keys": "face",
+      "elapsed_time": "2.31"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "input_keys": "vanilla\u23b5flavored\u23b5iceb\u23b5rs<<<<\u23b5cream",
+      "elapsed_time": "18.599"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway",
+      "input_keys": "infod<rmatiknll<<<<on\u23b5super\u23b5highway",
+      "elapsed_time": "22.052"
+    },
+    {
+      "result_text": "we",
+      "input_keys": "we",
+      "elapsed_time": "0.876"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high",
+      "input_keys": "the\u23b5cotf<ton\u23b5is\u23b5high",
+      "elapsed_time": "12.001"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5busy",
+      "input_keys": "the\u23b5presids<ential\u23b5suite\u23b5is\u23b5vedy<<ry\u23b5bust<y",
+      "elapsed_time": "24.252"
+    }
+  ]
+}

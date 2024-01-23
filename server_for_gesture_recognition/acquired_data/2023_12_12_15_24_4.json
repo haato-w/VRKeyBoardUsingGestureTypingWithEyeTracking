@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarGesture",
+  "data": [
+    {
+      "result_text": "Sample text",
+      "input_keys": "",
+      "elapsed_time": "0"
+    },
+    {
+      "result_text": "please\u23b5try\u23b5to\u23b5homebefore\u23b5midnight\u23b5",
+      "input_keys": "please\u23b5try\u23b5to\u23b5home\u23b5<before\u23b5midnight\u23b5",
+      "elapsed_time": "49.908"
+    },
+    {
+      "result_text": "brown\u23b5",
+      "input_keys": "brown\u23b5",
+      "elapsed_time": "18.474"
+    },
+    {
+      "result_text": "head\u23b5",
+      "input_keys": "head\u23b5",
+      "elapsed_time": "5.93"
+    },
+    {
+      "result_text": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions\u23b5",
+      "input_keys": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions\u23b5",
+      "elapsed_time": "61.271"
+    },
+    {
+      "result_text": "fish\u23b5are\u23b5jumping\u23b5",
+      "input_keys": "fish\u23b5are\u23b5jumping\u23b5",
+      "elapsed_time": "22.581"
+    },
+    {
+      "result_text": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5",
+      "input_keys": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5",
+      "elapsed_time": "21.468"
+    },
+    {
+      "result_text": "play\u23b5it\u23b5again\u23b5sam\u23b5",
+      "input_keys": "play\u23b5it\u23b5again\u23b5sam\u23b5",
+      "elapsed_time": "20.311"
+    },
+    {
+      "result_text": "until\u23b5",
+      "input_keys": "until\u23b5",
+      "elapsed_time": "4.328"
+    },
+    {
+      "result_text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur\u23b5",
+      "input_keys": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur\u23b5",
+      "elapsed_time": "37.074"
+    }
+  ]
+}

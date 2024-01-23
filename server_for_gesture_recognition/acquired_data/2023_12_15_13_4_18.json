@@ -1,0 +1,65 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "please\u23b5start\u23b5test\u23b5if\u23b5you\u23b5are\u23b5ready",
+      "input_keys": "sample<<<<<<pleasestar<<<<\u23b5start\u23b5test\u23b5if\u23b5you\u23b5are\u23b5ready",
+      "series_coordinates": [],
+      "elapsed_time": "51.583"
+    },
+    {
+      "result_text": "head",
+      "input_keys": "head",
+      "series_coordinates": [],
+      "elapsed_time": "2.338"
+    },
+    {
+      "result_text": "the\u23b5dreamers\u23b5of\u23b5dreams",
+      "input_keys": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5m<<",
+      "series_coordinates": [],
+      "elapsed_time": "23.681"
+    },
+    {
+      "result_text": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions",
+      "input_keys": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisikn<<ons",
+      "series_coordinates": [],
+      "elapsed_time": "27.788"
+    },
+    {
+      "result_text": "fish\u23b5are\u23b5jumping",
+      "input_keys": "fisg<h\u23b5are\u23b5jumping",
+      "series_coordinates": [],
+      "elapsed_time": "15.732"
+    },
+    {
+      "result_text": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight",
+      "input_keys": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnightt<",
+      "series_coordinates": [],
+      "elapsed_time": "26.173"
+    },
+    {
+      "result_text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur",
+      "input_keys": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur",
+      "series_coordinates": [],
+      "elapsed_time": "17.206"
+    },
+    {
+      "result_text": "brown",
+      "input_keys": "brown",
+      "series_coordinates": [],
+      "elapsed_time": "2.937"
+    },
+    {
+      "result_text": "play\u23b5it\u23b5again\u23b5sam",
+      "input_keys": "play\u23b5ir<t\u23b5again\u23b5sam",
+      "series_coordinates": [],
+      "elapsed_time": "13.462"
+    },
+    {
+      "result_text": "until",
+      "input_keys": "until\u23b5<",
+      "series_coordinates": [],
+      "elapsed_time": "4.496"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "input_method": "EyeGazeGesture",
+  "data": [
+    {
+      "result_text": "hello\u23b5world\u23b5",
+      "input_keys": "hello\u23b5world\u23b5",
+      "elapsed_time": "10.457"
+    },
+    {
+      "result_text": "play\u23b5it\u23b5again\u23b5sam\u23b5",
+      "input_keys": "play\u23b5it\u23b5again\u23b5sam\u23b5",
+      "elapsed_time": "10.943"
+    },
+    {
+      "result_text": "the\u23b5chamber\u23b5makes\u23b5decisions\u23b5",
+      "input_keys": "three\u23b5<<<<<<<<the\u23b5chamber\u23b5makes\u23b5decisions\u23b5",
+      "elapsed_time": "25.853"
+    },
+    {
+      "result_text": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5",
+      "input_keys": "the\u23b5dreamers\u23b5of\u23b5dreams\u23b5",
+      "elapsed_time": "13.351"
+    },
+    {
+      "result_text": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight\u23b5",
+      "input_keys": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight\u23b5",
+      "elapsed_time": "42.17"
+    },
+    {
+      "result_text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur\u23b5",
+      "input_keys": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur\u23b5",
+      "elapsed_time": "22.386"
+    },
+    {
+      "result_text": "fish\u23b5are\u23b5jumping\u23b5",
+      "input_keys": "fish\u23b5are\u23b5jumping\u23b5",
+      "elapsed_time": "13.977"
+    },
+    {
+      "result_text": "head\u23b5",
+      "input_keys": "head\u23b5",
+      "elapsed_time": "2.297"
+    },
+    {
+      "result_text": "until\u23b5",
+      "input_keys": "until\u23b5",
+      "elapsed_time": "2.255"
+    },
+    {
+      "result_text": "brown\u23b5",
+      "input_keys": "brown\u23b5",
+      "elapsed_time": "3.257"
+    }
+  ]
+}

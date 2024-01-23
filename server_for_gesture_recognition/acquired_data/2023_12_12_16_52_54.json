@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarGesture",
+  "data": [
+    {
+      "result_text": "sample\u23b5text\u23b5text\u23b5",
+      "input_keys": "sample\u23b5\u23b5<text\u23b5text\u23b5",
+      "elapsed_time": "32.744"
+    },
+    {
+      "result_text": "we\u23b5",
+      "input_keys": "ware\u23b5<<<<<we\u23b5",
+      "elapsed_time": "8.756"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5\u23b5suite\u23b5is\u23b5busy\u23b5",
+      "input_keys": "the\u23b5presidential\u23b5\u23b5suite\u23b5\u23b5<<\u23b5is\u23b5busy\u23b5",
+      "elapsed_time": "58.793"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5\u23b5ice\u23b5cream\u23b5",
+      "input_keys": "vanilla\u23b5flavored\u23b5\u23b5ice\u23b5cream\u23b5",
+      "elapsed_time": "43.394"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway\u23b5",
+      "input_keys": "information\u23b5\u23b5<super\u23b5highway\u23b5",
+      "elapsed_time": "42.963"
+    },
+    {
+      "result_text": "face\u23b5",
+      "input_keys": "face\u23b5",
+      "elapsed_time": "2.7"
+    },
+    {
+      "result_text": "do\u23b5",
+      "input_keys": "do\u23b5",
+      "elapsed_time": "2.464"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "elapsed_time": "23.695"
+    },
+    {
+      "result_text": "llearn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "input_keys": "lann\u23b5<<<<<lean\u23b5to\u23b5<<<<<<<learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "elapsed_time": "50.301"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree\u23b5",
+      "input_keys": "every\u23b5apple\u23b5from\u23b5every\u23b5tree\u23b5",
+      "elapsed_time": "22.233"
+    }
+  ]
+}

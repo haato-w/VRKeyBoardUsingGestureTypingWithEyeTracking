@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "hello\u23b5world",
+      "input_keys": "hello\u23b5world<d",
+      "elapsed_time": "7.953"
+    },
+    {
+      "result_text": "play\u23b5it\u23b5again\u23b5sam",
+      "input_keys": "play\u23b5it\u23b5agan<in\u23b5da<<sam",
+      "elapsed_time": "10.928"
+    },
+    {
+      "result_text": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions",
+      "input_keys": "the\u23b5v<chamber\u23b5makes\u23b5impotta<<<rtant\u23b5decisions",
+      "elapsed_time": "17.416"
+    },
+    {
+      "result_text": "the\u23b5dreamers\u23b5of\u23b5dreams",
+      "input_keys": "the\u23b5dreamers\u23b5of\u23b5dreames<<m<s",
+      "elapsed_time": "13.532"
+    },
+    {
+      "result_text": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight",
+      "input_keys": "pleasev<\u23b5try\u23b5to\u23b5be\u23b5g<home\u23b5before\u23b5midnight",
+      "elapsed_time": "18.349"
+    },
+    {
+      "result_text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur",
+      "input_keys": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5c<occur",
+      "elapsed_time": "13.003"
+    },
+    {
+      "result_text": "fish\u23b5are\u23b5jumping",
+      "input_keys": "fish\u23b5are\u23b5jumping",
+      "elapsed_time": "6.418"
+    },
+    {
+      "result_text": "head",
+      "input_keys": "head",
+      "elapsed_time": "1.252"
+    },
+    {
+      "result_text": "until",
+      "input_keys": "until",
+      "elapsed_time": "1.614"
+    },
+    {
+      "result_text": "brown",
+      "input_keys": "brown",
+      "elapsed_time": "2.477"
+    }
+  ]
+}

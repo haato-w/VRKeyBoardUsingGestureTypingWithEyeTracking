@@ -1,0 +1,65 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "sampls",
+      "input_keys": "sampls",
+      "series_coordinates": [],
+      "elapsed_time": "5.164"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "input_keys": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "series_coordinates": [],
+      "elapsed_time": "16.065"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "input_keys": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5rhn<<<run",
+      "series_coordinates": [],
+      "elapsed_time": "18.835"
+    },
+    {
+      "result_text": "the\u23b5presideantial\u23b5suite\u23b5is\u23b5very\u23b5busy",
+      "input_keys": "the\u23b5lresideantial<<<l<<<<<<<<<<<presideantial\u23b5suite\u23b5is\u23b5vey<ry\u23b5busy",
+      "series_coordinates": [],
+      "elapsed_time": "34.833"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway",
+      "input_keys": "information\u23b5super\u23b5highway",
+      "series_coordinates": [],
+      "elapsed_time": "13.726"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "input_keys": "vanilla\u23b5flavored\u23b5j<ice\u23b5ct<ream",
+      "series_coordinates": [],
+      "elapsed_time": "17.652"
+    },
+    {
+      "result_text": "do",
+      "input_keys": "do",
+      "series_coordinates": [],
+      "elapsed_time": "0.625"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high",
+      "series_coordinates": [],
+      "elapsed_time": "8.269"
+    },
+    {
+      "result_text": "we",
+      "input_keys": "we",
+      "series_coordinates": [],
+      "elapsed_time": "1.363"
+    },
+    {
+      "result_text": "face",
+      "input_keys": "face",
+      "series_coordinates": [],
+      "elapsed_time": "2.045"
+    }
+  ]
+}

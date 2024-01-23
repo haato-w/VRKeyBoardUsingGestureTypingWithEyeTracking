@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarGesture",
+  "data": [
+    {
+      "result_text": "Sample text",
+      "input_keys": "",
+      "elapsed_time": "0"
+    },
+    {
+      "result_text": "we\u23b5",
+      "input_keys": "we\u23b5",
+      "elapsed_time": "3.49"
+    },
+    {
+      "result_text": "every\u23b5apse\u23b5from\u23b5every\u23b5tree\u23b5",
+      "input_keys": "every\u23b5apse\u23b5from\u23b5every\u23b5tree\u23b5",
+      "elapsed_time": "49.648"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high\u23b5",
+      "elapsed_time": "16.761"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "input_keys": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run\u23b5",
+      "elapsed_time": "28.846"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream\u23b5",
+      "input_keys": "vanilla\u23b5flavored\u23b5ice\u23b5cream\u23b5",
+      "elapsed_time": "33.872"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5busy\u23b5",
+      "input_keys": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5busy\u23b5",
+      "elapsed_time": "41.333"
+    },
+    {
+      "result_text": "face\u23b5",
+      "input_keys": "face\u23b5",
+      "elapsed_time": "3.535"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway\u23b5",
+      "input_keys": "information\u23b5super\u23b5highway\u23b5",
+      "elapsed_time": "23.61"
+    },
+    {
+      "result_text": "do\u23b5",
+      "input_keys": "do\u23b5",
+      "elapsed_time": "2.464"
+    }
+  ]
+}

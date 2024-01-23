@@ -1,0 +1,45 @@
+{
+  "input_method": "EyeGazeGesture",
+  "data": [
+    {
+      "text": "Sample text",
+      "elapsed_time": "9.754"
+    },
+    {
+      "text": "",
+      "elapsed_time": "1.738"
+    },
+    {
+      "text": "",
+      "elapsed_time": "5.36"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.571"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.417"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.501"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.376"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.556"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.348"
+    },
+    {
+      "text": "",
+      "elapsed_time": "0.375"
+    }
+  ]
+}

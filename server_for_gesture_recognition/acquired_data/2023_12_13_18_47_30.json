@@ -1,0 +1,65 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "please\u23b5start\u23b5test\u23b5if\u23b5you\u23b5are\u23b5ready",
+      "input_keys": "plese<m<<ase\u23b5start\u23b5tesf<<st\u23b5if\u23b5you\u23b5smare<<mm<<<<<are\u23b5resd<<ady",
+      "series_coordinates": [],
+      "elapsed_time": "52.461"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "input_keys": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "series_coordinates": [],
+      "elapsed_time": "19.254"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5bhsy",
+      "input_keys": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5bhsy",
+      "series_coordinates": [],
+      "elapsed_time": "23.235"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "input_keys": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "series_coordinates": [],
+      "elapsed_time": "19.783"
+    },
+    {
+      "result_text": "we",
+      "input_keys": "we",
+      "series_coordinates": [],
+      "elapsed_time": "0.598"
+    },
+    {
+      "result_text": "face",
+      "input_keys": "face",
+      "series_coordinates": [],
+      "elapsed_time": "2.018"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high",
+      "series_coordinates": [],
+      "elapsed_time": "11.108"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway",
+      "input_keys": "information\u23b5super\u23b5highway",
+      "series_coordinates": [],
+      "elapsed_time": "16.733"
+    },
+    {
+      "result_text": "do",
+      "input_keys": "do",
+      "series_coordinates": [],
+      "elapsed_time": "1.083"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "input_keys": "every\u23b5apple\u23b5from\u23b5every\u23b5g<tree",
+      "series_coordinates": [],
+      "elapsed_time": "17.36"
+    }
+  ]
+}

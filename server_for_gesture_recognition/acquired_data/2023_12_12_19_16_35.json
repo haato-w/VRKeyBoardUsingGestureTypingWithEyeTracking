@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "pplrase",
+      "input_keys": "ppll<<<plrase",
+      "elapsed_time": "10.567"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway",
+      "input_keys": "informationv<\u23b5super\u23b5highway",
+      "elapsed_time": "19.741"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "input_keys": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "elapsed_time": "18.098"
+    },
+    {
+      "result_text": "we",
+      "input_keys": "we",
+      "elapsed_time": "1.071"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "input_keys": "vanilla\u23b5flavors<ed\u23b5ice\u23b5cream",
+      "elapsed_time": "16.553"
+    },
+    {
+      "result_text": "do",
+      "input_keys": "do",
+      "elapsed_time": "0.96"
+    },
+    {
+      "result_text": "face",
+      "input_keys": "face",
+      "elapsed_time": "2.06"
+    },
+    {
+      "result_text": "every",
+      "input_keys": "every",
+      "elapsed_time": "1.962"
+    },
+    {
+      "result_text": "the\u23b5presidental\u23b5suite\u23b5is\u23b5very\u23b5busy",
+      "input_keys": "the\u23b5presidenr<tal\u23b5suitw<e\u23b5is\u23b5vedy<<rgly<<<y\u23b5busy",
+      "elapsed_time": "26.006"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high",
+      "input_keys": "the\u23b5cotton\u23b5is\u23b5high",
+      "elapsed_time": "9.619"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "Sample text",
+      "input_keys": "",
+      "elapsed_time": "0"
+    },
+    {
+      "result_text": "vanilla\u23b5flavored\u23b5ice\u23b5cream",
+      "input_keys": "vn<anilla\u23b5flavored\u23b5ice\u23b5cream",
+      "elapsed_time": "20.911"
+    },
+    {
+      "result_text": "do",
+      "input_keys": "do",
+      "elapsed_time": "0.946"
+    },
+    {
+      "result_text": "information\u23b5super\u23b5highway",
+      "input_keys": "informationsu<<\u23b5super\u23b5highway",
+      "elapsed_time": "23.556"
+    },
+    {
+      "result_text": "face",
+      "input_keys": "face",
+      "elapsed_time": "2.129"
+    },
+    {
+      "result_text": "every\u23b5apple\u23b5from\u23b5every\u23b5tree",
+      "input_keys": "every\u23b5applef<\u23b5from\u23b5every\u23b5tree",
+      "elapsed_time": "22.679"
+    },
+    {
+      "result_text": "the\u23b5cotton\u23b5is\u23b5high",
+      "input_keys": "the\u23b5votton<<<<<<cotton\u23b5is\u23b5high",
+      "elapsed_time": "16.942"
+    },
+    {
+      "result_text": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "input_keys": "learn\u23b5to\u23b5walk\u23b5before\u23b5you\u23b5run",
+      "elapsed_time": "21.105"
+    },
+    {
+      "result_text": "we",
+      "input_keys": "we",
+      "elapsed_time": "0.639"
+    },
+    {
+      "result_text": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5busy",
+      "input_keys": "the\u23b5presidential\u23b5suite\u23b5is\u23b5very\u23b5busy",
+      "elapsed_time": "26.312"
+    }
+  ]
+}

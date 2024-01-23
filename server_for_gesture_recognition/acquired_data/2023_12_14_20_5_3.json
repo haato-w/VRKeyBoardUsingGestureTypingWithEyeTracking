@@ -1,0 +1,65 @@
+{
+  "input_method": "ControllarOnly",
+  "data": [
+    {
+      "result_text": "sam",
+      "input_keys": "san<m\u23b5\u23b5\u23b5\u23b5<m<<<<\u23b5<",
+      "series_coordinates": [],
+      "elapsed_time": "30.42"
+    },
+    {
+      "result_text": "head",
+      "input_keys": "head",
+      "series_coordinates": [],
+      "elapsed_time": "16.593"
+    },
+    {
+      "result_text": "the\u23b5dreamers\u23b5of\u23b5dreamers",
+      "input_keys": "the\u23b5deran<<<<reamers\u23b5of\u23b5dreamers",
+      "series_coordinates": [],
+      "elapsed_time": "28.819"
+    },
+    {
+      "result_text": "the\u23b5chamber\u23b5makes\u23b5important\u23b5decisions",
+      "input_keys": "the\u23b5chambsr<<er\u23b5man<kes\u23b5important\u23b5decisions",
+      "series_coordinates": [],
+      "elapsed_time": "41.918"
+    },
+    {
+      "result_text": "fish\u23b5are\u23b5jumping",
+      "input_keys": "fish\u23b5z<are\u23b5jumping",
+      "series_coordinates": [],
+      "elapsed_time": "15.578"
+    },
+    {
+      "result_text": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5before\u23b5midnight",
+      "input_keys": "please\u23b5try\u23b5to\u23b5be\u23b5home\u23b5befkr<<<fore\u23b5migh<<dnight",
+      "series_coordinates": [],
+      "elapsed_time": "32.271"
+    },
+    {
+      "result_text": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occur",
+      "input_keys": "this\u23b5phenomenon\u23b5will\u23b5never\u23b5occir<<ud<r",
+      "series_coordinates": [],
+      "elapsed_time": "28.902"
+    },
+    {
+      "result_text": "brown",
+      "input_keys": "broen<<wn",
+      "series_coordinates": [],
+      "elapsed_time": "6.792"
+    },
+    {
+      "result_text": "play\u23b5it\u23b5again\u23b5sam",
+      "input_keys": "play\u23b5it\u23b5again\u23b5sam",
+      "series_coordinates": [],
+      "elapsed_time": "13.518"
+    },
+    {
+      "result_text": "untill",
+      "input_keys": "untill",
+      "series_coordinates": [],
+      "elapsed_time": "3.452"
+    }
+  ]
+}
