@@ -1,4 +1,4 @@
-# VRKeyBoardUsingGestureTypingWithEyeTracking
+# VR KeyBoard Using Gesture Typing With Eye Tracking
 
 This is a Keyboard system using gesture typing using eye tracking in a VR environment.
 
