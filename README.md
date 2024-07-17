@@ -11,5 +11,6 @@ I assume run unity project folder on Quest Pro.
 
 
 An image below is the using image.
-<img width="393" alt="using" src="https://github.com/user-attachments/assets/d6f608e1-6837-4ccb-987c-d9be4dba4055">
 When you start the system, you can see this screen and you can play gesture typing with your line of sight.
+<img width="393" alt="using" src="https://github.com/user-attachments/assets/d6f608e1-6837-4ccb-987c-d9be4dba4055">
+
